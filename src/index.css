@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: burlywood;
 }
 
 code {
@@ -12,10 +13,10 @@ code {
     monospace;
 }
 
-.bakery-img {
-  width: 70%;
-  height: 70%;
-  object-fit: contain;
+.welcome-text-img {
+  width: 500px;
+  text-align: center;
+  margin: 250px;
 }
 .main-h1 {
   text-align: center;
@@ -23,4 +24,14 @@ code {
 h2 {
   text-align: center;
   color: rgb(86, 14, 168);
+}
+.cake-image {
+  width: 500px;
+  text-align: center;
+  margin: 250px;
+}
+.donat-image {
+  width: 500px;
+  text-align: center;
+  margin: 250px;
 }

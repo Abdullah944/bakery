@@ -1,17 +1,15 @@
-import React from "react";
-
 const products = [
   {
     name: "donat",
-    price: "1.000",
+    price: "10.000",
     image:
-      "https://thumbs.dreamstime.com/b/chocolate-donat-chocolate-cream-chocolate-donat-chocolate-cream-white-background-143039911.jpg",
+      "https://image.similarpng.com/very-thumbnail/2020/07/Tasty-donut-on-transparent-PNG.png",
   },
   {
-    name: "corwason",
-    price: "2.000",
+    name: "cake",
+    price: "20.000",
     image:
-      "https://modo3.com/thumbs/fit630x300/249631/1561158984/%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%B5%D9%86%D8%B9_%D9%83%D8%B1%D9%88%D8%A7%D8%B3%D9%88%D9%86_%D8%B3%D9%87%D9%84%D8%A9.jpg",
+      "https://e7.pngegg.com/pngimages/265/957/png-clipart-wedding-cake-torte-cake-decorating-wedding-cake-cream-wedding-anniversary-thumbnail.png",
   },
 ];
 
