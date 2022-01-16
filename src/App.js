@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1 className="main-h1"> Hello , and welcome to the best bakery!!</h1>
+      <h2> EAT one and oyu will eat your hand after it!!</h2>
+
+      <img
+        className="bakery-img"
+        alt="bakery image"
+        src="https://cdn1.vectorstock.com/i/1000x1000/24/85/cartoon-bakery-shop-building-small-business-banner-vector-17482485.jpg"
+      ></img>
     </div>
   );
 }
