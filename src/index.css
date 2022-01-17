@@ -1,37 +1,23 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   background-color: burlywood;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-
 .welcome-text-img {
-  width: 500px;
+  margin: auto;
+  width: 50%;
   text-align: center;
-  margin: 250px;
+  padding: 10px;
 }
-.main-h1 {
+.items {
+  margin: auto;
+  width: 50%;
   text-align: center;
+  padding: 10px;
+  border: solid;
 }
-h2 {
-  text-align: center;
-  color: rgb(86, 14, 168);
-}
-.cake-image {
-  width: 500px;
-  text-align: center;
-  margin: 250px;
-}
-.donat-image {
-  width: 500px;
-  text-align: center;
-  margin: 250px;
+.images {
+  margin: auto;
+  width: 80%;
+
+  padding: 10px;
 }
